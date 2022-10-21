@@ -193,11 +193,3 @@ body {
     grid-row-start: 2;
   }
 }
-
-
-
-/* to avoid H1 HTML validation report */
-
-h1{
-    display: none;
-}
