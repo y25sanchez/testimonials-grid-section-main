@@ -124,7 +124,7 @@ body {
     max-width: 82.8rem;
     grid-template-columns: repeat(3, 1fr);
     display: grid;
-    padding: 0;
+    padding: 1rem;
     gap: 2rem;
   }
   .cards {
